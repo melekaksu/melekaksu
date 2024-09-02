@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melek Aksu</h1>
 <h3 align="center">A passionate Frontend Developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **HTML CSS JS**
+- 🔭 I’m currently working on **HTML CSS JS REACT**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **HTML CSS JS REACT**
 
 - 📫 How to reach me **melekkaksu@gmail.com**
 
